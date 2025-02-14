@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 🙂
+
+My name is Broc Weselmann. I am studying at the University of Central Florida, and I am graduating in Fall 2026.
 
 <!--
 **brocw/brocw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
